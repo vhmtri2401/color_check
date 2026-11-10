@@ -1,0 +1,2 @@
+verdict,verdict_label,formula,white,threshold_de,max_pair_de,worst_pair,max_de_to_mean,worst_segment,overall_master_de,max_master_de,worst_master_segment,noise_floor_de,segments,valid_segments,frames,inset_px,width_px,ring_L,ring_a,ring_b
+pass,ĐỒNG MÀU,ΔE00,D50,0.400,0.1623,1-14,0.0904,14,,,,0.0499,30,30,8,15,29,72.944,24.543,21.763

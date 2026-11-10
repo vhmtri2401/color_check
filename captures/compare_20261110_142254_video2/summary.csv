@@ -1,0 +1,2 @@
+verdict,verdict_label,formula,white,threshold_de,max_pair_de,worst_pair,max_de_to_mean,worst_segment,overall_master_de,max_master_de,worst_master_segment,noise_floor_de,segments,valid_segments,frames,inset_px,width_px,ring_L,ring_a,ring_b
+fail,KHÔNG ĐỒNG MÀU,ΔE00,D50,0.400,0.9928,4-16,0.8925,16,0.1942,0.9587,16,0.0736,30,30,8,15,29,72.261,25.239,21.723

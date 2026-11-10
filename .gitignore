@@ -1,0 +1,59 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tooling cache & local bin
+.pylib/
+.bin/
+.claude_context/
+.archify/
+
+# Captures: exclude massive raw frame directories, but preserve key report verification images & CSVs
+captures/*
+!captures/master_20261110_140649_video2/
+captures/master_20261110_140649_video2/*
+!captures/master_20261110_140649_video2/overlay_zoom.png
+!captures/master_20261110_140649_video2/chart_ring.png
+!captures/master_20261110_140649_video2/summary.csv
+
+!captures/compare_20261110_142254_video2/
+captures/compare_20261110_142254_video2/*
+!captures/compare_20261110_142254_video2/overlay_zoom.png
+!captures/compare_20261110_142254_video2/chart_ring.png
+!captures/compare_20261110_142254_video2/summary.csv
+
+!captures/uniform_ts_20261110_144112_video2/
+captures/uniform_ts_20261110_144112_video2/*
+!captures/uniform_ts_20261110_144112_video2/chart_timeseries.png
+!captures/uniform_ts_20261110_144112_video2/timeseries_rounds.csv
